@@ -37,8 +37,4 @@ In the end the following demographic items and debriefing questions were asked: 
 
 # Results
 
-
-
 # Discussion
-
-# References
