@@ -1,5 +1,5 @@
 abstract.md
 introduction.md
 Background.md
-results_table.md
+method.md
 figures/figure_1/figure_1.jpg
