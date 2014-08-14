@@ -1,27 +1,4 @@
 
-<!-- saved from url=(0269)https://raw.githubusercontent.com/TobiasKoeln/Terrier1/master/manuscript_Terrier1.rmd?token=7601423__eyJzY29wZSI6IlJhd0Jsb2I6VG9iaWFzS29lbG4vVGVycmllcjEvbWFzdGVyL21hbnVzY3JpcHRfVGVycmllcjEucm1kIiwiZXhwaXJlcyI6MTQwODYzNjAwM30%3D--5e5f17604e82bb3ac90cb24942ddce26b60d0906 -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css"></style></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">---
-title: "Relevance as a Moderator in Subconscious Evaluative Conditioning Effects?"
-author: "Tobias Heycke, Thijs Verwijmeren, Christoph Stahl"
-affiliation: University of Cologne, University of Nijmegen
-output:
-  pdf_document:
-    fig_caption: yes
-    keep_tex: yes
-    template: apa6.tex
-classoption: man
-csl: apa6.csl
-lang: american
-lineno: yes
-note: null
-abstract: The debate whether evaluative conditioning (EC), with stimuli presented subliminally
-  during the learning phase, is ongoing. This study investigates whether an EC effect
-  can be found in a subconscious conditioned stimulus (CS) paradigm when the CS is
-  relevant to a need state of the participant and the US and CS are relevant towards
-  each other. Furthermore visibility of the short presented stimuli is checked online. 
-shorttitle: Relevance in Subconscious Evaluative Conditioning Effects
-bibliography: references_terrier.bib
----
 Evaluating others and objects is very common. Generally speaking evaluations can be made with only very little information if asked for one (BRON). It thus might not be surprising that evaluations of generally evaluated neutral objects can be changed rather quickly (BRON) and easily. The mere repetitive exposure of a neutral object can result in a more positive evaluation of this object (BRON: mere exposure). Another intensively studied mechanism of influencing people's evaluation is through the process of evaluative conditioning (EC). The repetitive co-occurrence of a valenced stimulus called unconditioned stimulus(US) with a neutral stimulus called conditioned stimulus (CS) can result in a change of the evaluated valence of the CS (BRON). This effect has been shown consistently when both the CS and US were shown above the level of awareness. A wide used definition of Evaluative Conditioning is an effect that is 'a change in the valence of a stimulus that results from pairing the stimulus with another stimulus' (De Houwer.. 2001 (Q: Gast 2012))
 Keeping this in mind dual-process theories would predict that this change of valence of the CS could happen through an __effortless and automatic__ process (BRON: Gawronski &amp; Bodenh.). __More?__
 
