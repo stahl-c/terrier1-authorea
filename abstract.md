@@ -2,4 +2,5 @@ The debate whether evaluative conditioning (EC), with stimuli presented sublimin
   during the learning phase, is ongoing. This study investigates whether an EC effect
   can be found in a subconscious conditioned stimulus (CS) paradigm when the CS is
   relevant to a need state of the participant and the US and CS are relevant towards
-  each other. Furthermore visibility of the short presented stimuli is checked online. 
+  each other. Furthermore visibility of the short presented stimuli is checked online.
+  Results indicate that CS presentation was not subliminal: CSs could be identified at above-chance levels.
