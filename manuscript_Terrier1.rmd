@@ -91,7 +91,7 @@ In the end the following demographic items and debriefing questions were asked: 
 
 # Discussion
 
-We failed to replicate the Original Findling.
+We failed to replicate the original finding.
 
 # References
 </pre></body></html>
